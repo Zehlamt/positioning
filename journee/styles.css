@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding:0;
-    font-family: "x", "X";
+    font-family: "bebas neue book", "encode sans";
     box-sizing: border-box;
 }
 
@@ -69,4 +69,8 @@ width: 100%;
         width: 100%;
         height: auto;
     }
+}
+
+main{
+    
 }
